@@ -25,6 +25,18 @@
 
 ![Screen Shot 2022-02-17 at 8 31 48 PM](https://user-images.githubusercontent.com/91576834/154618802-6e8d4097-70e8-4c47-979c-f7135783d818.png)
 
+## **Analyzing with Pandas**
+
+**Once the data is loaded to Pandas in a csv file, more subsets and dataframes were created to filter results needed to perform the analysis.**
+
+![(1)](https://user-images.githubusercontent.com/91576834/154756273-974ef91e-357b-4e6c-9437-4592a2f8c33b.png)
+
+
+
+
+
+
+
 
 
 
