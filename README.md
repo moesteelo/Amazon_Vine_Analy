@@ -35,9 +35,6 @@
 
 **I have created the below reviews summary for vine vs no vine reviews for Amazon Sports equipment.**
 
-![Screen Shot 2022-02-18 at 3 26 00 PM](https://user-images.githubusercontent.com/91576834/154774206-c8417766-e9b9-48da-937e-15988266569c.png)
-![Screen Shot 2022-02-18 at 3 27 38 PM](https://user-images.githubusercontent.com/91576834/154774498-4bb4d807-1b30-4fba-a65a-e809e36e68ef.png)
-
 ![Screen Shot 2022-02-18 at 4 32 04 PM](https://user-images.githubusercontent.com/91576834/154778205-2870ef0d-40a3-4dcc-88a5-547ebe78deba.png)
 
 
