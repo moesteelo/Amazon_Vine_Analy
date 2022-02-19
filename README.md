@@ -31,8 +31,24 @@
 
 ![(1)](https://user-images.githubusercontent.com/91576834/154756273-974ef91e-357b-4e6c-9437-4592a2f8c33b.png)
 
+## **Results**
 
+**I have created the below reviews summary for vine vs no vine reviews for Amazon Sports equipment.**
 
+![Screen Shot 2022-02-18 at 3 26 00 PM](https://user-images.githubusercontent.com/91576834/154774206-c8417766-e9b9-48da-937e-15988266569c.png)
+![Screen Shot 2022-02-18 at 3 27 38 PM](https://user-images.githubusercontent.com/91576834/154774498-4bb4d807-1b30-4fba-a65a-e809e36e68ef.png)
+
+- **In total there were 61,948 reviews of sports equipment, with approximate 5% vine reviews and 95% non-vine reviews.**
+- **139 of vine reviews are 5 star, while 32,665 of non-vine reviews are 5 star.**
+- **42% of vine reviews are 5 star, as well as 53% of non-vine reviews are 5 star.**
+
+## **Summary**
+
+**Based on the data summary, there is sufficent evidence of positvity bias for reviews in the Vine program. The non-vine reviews are approximately 10% higher in 5 star ratings compared to vine reviews.**
+
+## **Further Analysis**
+
+**To provide a more in-depth analysis on customer votes and reviews. Adding "helpful_votes" as a factor in the contribution of sports equipment being purchased can help distinguish if 5-star ratings play a factor in purchases.**
 
 
 
