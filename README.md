@@ -50,8 +50,9 @@
 
 **To provide a more in-depth analysis on customer votes and reviews. Adding "helpful_votes" as a factor in the contribution of sports equipment being purchased can help distinguish if 5-star ratings play a factor in purchases.**
 
-
-
+## **Resources**
+-[Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) 
+-[Amazon Sports Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz)
 
 
 
